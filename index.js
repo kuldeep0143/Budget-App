@@ -14,6 +14,7 @@ let tempAmount = 0;
 
 //  Budget Functions
 
+
 totalAmountButton.addEventListener("click", () => {
     tempAmount = totalAmount.value;
 
